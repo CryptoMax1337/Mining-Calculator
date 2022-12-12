@@ -1,4 +1,4 @@
-# Ethereum Mining Calculator
+# Max Bitcoib Mining Calculator
 View live version of [Ethereum Mining Calculator](https://badmofo.github.io/ethereum-mining-calculator/).
 
 ## Calculations
