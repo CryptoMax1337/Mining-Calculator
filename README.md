@@ -12,3 +12,4 @@ netHashGH = (difficulty / blockTime) / 1e9;
 ```
 
 Where `difficulty` is the current difficulty to mine a block and `blockTime` is the networks current block time.
+ 
